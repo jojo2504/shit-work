@@ -38,7 +38,7 @@ namespace NamespacePlaceholder{
             return checker;
         }
         private static void Main(string[] args){
-            Console.WriteLine(ex3("Bonjour j'aime les haricots."));
+            Console.WriteLine(ex3("Bonj our j'aime les haricots."));         
         }
     }
 }
